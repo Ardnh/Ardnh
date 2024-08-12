@@ -25,9 +25,6 @@ I'am currently learning go languange created by google to develop serverside app
 ## 💻 Technologies
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 
-## 🛠 Frontend Projects
-[![portfolio](https://img.shields.io/badge/profile_website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://simprof.netlify.app/home) [![portfolio](https://img.shields.io/badge/travel_company-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flowify-travelens.netlify.app/)
-
 ## 🌐 Reach me on
 <a href="https://linkedin.com/in/ardnh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardnh" height="30" width="40" /></a>
 <a href="https://instagram.com/ardanhilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardanhilal" height="30" width="40" /></a>
@@ -37,9 +34,3 @@ I'am currently learning go languange created by google to develop serverside app
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ardnh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardnh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
-## ✍️ Quote of the day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=ardnh&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
