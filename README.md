@@ -30,7 +30,7 @@ I'am currently learning go languange created by google to develop serverside app
 <a href="https://instagram.com/ardanhilal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ardanhilal" height="30" width="40" /></a>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ardnh&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ardnh&show_icons=true&theme=radical)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ardnh&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardnh&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
