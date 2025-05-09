@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ardan — Frontend Engineer (Web & Mobile)
 
-I'm a passionate Frontend Engineer who enjoys building seamless, performant, and scalable interfaces for both **web** and **mobile** platforms, .
+I'm a passionate Frontend Engineer who enjoys building seamless, performant, and scalable interfaces for both **web** and **mobile** platforms, Currently I work in one of the steel manufacturing companies in Indonesia.
 
 ---
 
