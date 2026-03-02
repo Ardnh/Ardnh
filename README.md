@@ -29,7 +29,7 @@ I'm a passionate Frontend Engineer who enjoys building seamless, performant, and
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ardnh)
-- 📧 Email: ardn.h79@gmail.com.com
+- 📧 Email: ardn.h79@gmail.com
 
 ---
 
