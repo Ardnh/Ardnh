@@ -16,7 +16,6 @@ I'm a passionate Frontend Engineer who enjoys building seamless, performant, and
 ### Mobile
 - **Flutter** 
 - **Kotlin** (Native Android)
-- **Dart**
 
 ### Backend & Others
 - **Golang (Go)** for building performant APIs
